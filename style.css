@@ -1,0 +1,60 @@
+.ob {
+    text-align: center;
+    
+}
+
+.divs {
+    width: 90vh;
+    height: auto;
+    background-color: aqua;
+    margin:0 auto;
+    border-radius: 5vh;
+    display: flex;
+  justify-content: space-between;
+}
+
+body {
+    background-color: rgb(186, 244, 225);
+}
+
+.text {
+    width: 40vh;
+    padding: 3vh;
+}
+
+img {
+    width: 40vh;
+    height: 50vh;
+    border: 1vh solid blue;
+    border-radius: 5vh;
+    margin: 5vh;
+}
+
+.divz {
+    width: 40vh;
+    height: 63vh;
+    border: 0.5vh solid;
+    border-radius: 5vh;
+    margin-left: 5vh;
+    background-color: aliceblue;
+}
+
+.head {
+    text-align: center;
+}
+
+.quest {
+    width: 40vh;
+    height: 53vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh;
+}
+
+input {
+    margin-bottom: 2vh;
+}
+
+.pis {
+    text-align: center;
+}
